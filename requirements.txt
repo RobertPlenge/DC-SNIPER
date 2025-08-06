@@ -1,0 +1,3 @@
+# For PDF report generation and secure input
+fpdf
+keyring
